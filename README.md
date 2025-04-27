@@ -49,7 +49,7 @@
 
 1. **Клонирование репозитория**:
    ```bash
-   git clone https://gitlab.skillbox.ru/dmitrii_afanasev_7/python_basic_diploma
+   git clone https://github.com/hytuka170596/bot_kinopoisk.git
    cd ваш репозиторий
 
     Установка зависимостей:
